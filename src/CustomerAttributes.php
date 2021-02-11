@@ -1,6 +1,6 @@
 <?php
 
-namespace DevGroup\Dreamkas;
+namespace avpet\Dreamkas;
 
 
 use DevGroup\Dreamkas\exceptions\ValidationException;
