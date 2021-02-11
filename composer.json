@@ -3,11 +3,11 @@
     "description": "Фискализация чека для Дримкас-Ф на php",
     "type": "library",
     "require": {
-        "php": "~7.0",
-        "guzzlehttp/guzzle": "~6.3.0"
+        "php": "^7.0",
+        "guzzlehttp/guzzle": "^6.3.0"
     },
     "require-dev": {
-        "phpunit/phpunit": "~5.7.25"
+        "phpunit/phpunit": "^5.7.25"
     },
     "license": "MIT",
     "autoload": {
