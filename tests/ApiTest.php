@@ -1,14 +1,14 @@
 <?php
 
-namespace DevGroup\Dreamkas\tests;
+namespace avpet\Dreamkas\tests;
 
-use DevGroup\Dreamkas\Api;
-use DevGroup\Dreamkas\CustomerAttributes;
-use DevGroup\Dreamkas\exceptions\ValidationException;
-use DevGroup\Dreamkas\Payment;
-use DevGroup\Dreamkas\Position;
-use DevGroup\Dreamkas\Receipt;
-use DevGroup\Dreamkas\TaxMode;
+use avpet\Dreamkas\Api;
+use avpet\Dreamkas\CustomerAttributes;
+use avpet\Dreamkas\exceptions\ValidationException;
+use avpet\Dreamkas\Payment;
+use avpet\Dreamkas\Position;
+use avpet\Dreamkas\Receipt;
+use avpet\Dreamkas\TaxMode;
 use GuzzleHttp\Exception\ClientException;
 
 
