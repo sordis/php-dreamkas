@@ -1,5 +1,5 @@
 {
-    "name": "devgroup/php-dreamkas",
+    "name": "avpet/php-dreamkas",
     "description": "Фискализация чека для Дримкас-Ф на php",
     "type": "library",
     "require": {
