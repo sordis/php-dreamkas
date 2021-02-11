@@ -12,18 +12,18 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "DevGroup\\Dreamkas\\": "src/"
+            "avpet\\Dreamkas\\": "src/"
         }
     },
     "autoload-dev": {
         "psr-4": {
-            "DevGroup\\Dreamkas\\tests\\": "tests/"
+            "avpet\\Dreamkas\\tests\\": "tests/"
         }
     },
     "authors": [
         {
-            "name": "Alexander Kozhevnikov",
-            "email": "sales.2@devgroup.ru"
+            "name": "Alexandr Peters",
+            "email": "alexandr.peters@gmail.com"
         }
     ]
 }
