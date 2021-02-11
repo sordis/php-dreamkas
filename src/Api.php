@@ -1,6 +1,6 @@
 <?php
 
-namespace DevGroup\Dreamkas;
+namespace avpet\Dreamkas;
 
 use GuzzleHttp\Client;
 
