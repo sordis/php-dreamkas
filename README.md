@@ -59,5 +59,3 @@ try {
 }
 
 ```
-
-Made by DevGroup.ru - [Создание интернет-магазинов](https://devgroup.ru/services/internet-magazin).
