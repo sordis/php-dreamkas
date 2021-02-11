@@ -1,12 +1,10 @@
 # php-dreamkas
-Фискализация чека для Дримкас-Ф для PHP 7.0
-
-Для более старых версий PHP придётся править код на предмет типов у функций.
+Фискализация чека для Дримкас-Ф для PHP > 7.0
 
 ## Установка
 
 ```
-composer require devgroup/php-dreamkas
+composer require avpet/php-dreamkas
 ```
 
 ## Пример кода
