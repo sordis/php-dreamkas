@@ -1,7 +1,7 @@
 <?php
 
-namespace avpet\Dreamkas;
-use avpet\Dreamkas\exceptions\ValidationException;
+namespace sordis\Dreamkas;
+use sordis\Dreamkas\exceptions\ValidationException;
 
 
 /**
