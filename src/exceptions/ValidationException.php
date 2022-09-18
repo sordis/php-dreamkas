@@ -1,6 +1,6 @@
 <?php
 
-namespace avpet\Dreamkas\exceptions;
+namespace sordis\Dreamkas\exceptions;
 
 
 /**
