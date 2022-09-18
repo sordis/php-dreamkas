@@ -4,20 +4,20 @@
 ## Установка
 
 ```
-composer require avpet/php-dreamkas
+composer require sordis/php-dreamkas
 ```
 
 ## Пример кода
 
 ```php
 <?php
-use DevGroup\Dreamkas\Api;
-use DevGroup\Dreamkas\CustomerAttributes;
-use DevGroup\Dreamkas\exceptions\ValidationException;
-use DevGroup\Dreamkas\Payment;
-use DevGroup\Dreamkas\Position;
-use DevGroup\Dreamkas\Receipt;
-use DevGroup\Dreamkas\TaxMode;
+use sordis\Dreamkas\Api;
+use sordis\Dreamkas\CustomerAttributes;
+use sordis\Dreamkas\exceptions\ValidationException;
+use sordis\Dreamkas\Payment;
+use sordis\Dreamkas\Position;
+use sordis\Dreamkas\Receipt;
+use sordis\Dreamkas\TaxMode;
 use GuzzleHttp\Exception\ClientException;
 
 /***
@@ -37,8 +37,8 @@ $receipt->payments[] = new Payment([
     'sum' => 420000, // стоимость оплаты по чеку
 ]);
 $receipt->attributes = new CustomerAttributes([
-    'email' => 'info@devgroup.ru', // почта покупателя
-    'phone' => '74996776566', // телефон покупателя
+    'email' => 'info@gmail.ru', // почта покупателя
+    'phone' => '79280000000', // телефон покупателя
 ]);
 
 // Можно посчитать сумму автоматом
